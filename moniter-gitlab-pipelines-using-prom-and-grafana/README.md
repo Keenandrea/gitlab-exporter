@@ -46,7 +46,3 @@ For detailed information about metrics provided by `gitlab-ci-pipelines-exporter
 - Grafana installation
 - Docker (recommended for running exporters)
 - Python (for custom exporter development)
-
-## Next Steps
-
-Continue to the installation and configuration sections to set up your GitLab metrics monitoring environment.
